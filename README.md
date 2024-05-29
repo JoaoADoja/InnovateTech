@@ -1,1 +1,1 @@
-# Atividade Projeto em empreendedorismo - InnovateTech Institute
+# Projeto em empreendedorismo - InnovateTech Institute
