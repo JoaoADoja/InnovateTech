@@ -19,7 +19,7 @@ body {
     text-align: justify;
     
 }
-header2 {
+.header2 {
     background-color: #f9f9f9;
     color: #fff;
     text-align: justify;
@@ -31,8 +31,8 @@ header2 {
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
-    background-color: #f9f9f9
-    color white;
+    background-color: #f9f9f9;
+    color: white;
 }
 .card {
     border: 1px solid #ccc;
